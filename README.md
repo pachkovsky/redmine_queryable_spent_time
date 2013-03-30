@@ -1,4 +1,3 @@
-redmine_queryable_spent_time
-============================
+# Redmine Queryable Spent Time plugin
 
-This plugin allows to run search queries by Spent Time column.
+This plugin allows to filter issues by Spent Time column.
